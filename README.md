@@ -55,10 +55,6 @@ This project analyzes web server logs from the **University of Calgary Computer 
 - `transcript.txt` – Written version of the video walkthrough
 - (Optional) `README.md` – This file
 
----
-
-## 📹 Walkthrough Video
-A short recorded video explaining the notebook and results is provided separately via YouTube (unlisted). Link shared via form.
 
 ---
 
